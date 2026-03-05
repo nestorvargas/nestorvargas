@@ -19,7 +19,7 @@ Ingeniero de sistemas con **+10 años de experiencia** construyendo software rob
 - 🧠 Trabajo en la intersección entre **desarrollo y operaciones** para entregar soluciones de alta calidad.
 - ⚡ Me apasiona construir APIs robustas, microservicios y sistemas distribuidos.
 - 🌱 Siempre aprendiendo: actualmente profundizando en **Kubernetes**, **observabilidad** y **event-driven architecture**.
-- 💬 Pregúntame sobre **Node.js, PHP, Docker, CI/CD, Linux, RabbitMQ, Kafka**.
+- 💬 Pregúntame sobre **Node.js, PHP, Docker, CI/CD, Linux, Kafka**.
 
 ---
 
@@ -65,7 +65,7 @@ Ingeniero de sistemas con **+10 años de experiencia** construyendo software rob
 | **Arquitectura** | Modelado de dominios con DDD, separación en capas y Clean Architecture |
 | **DevOps** | Pipelines CI/CD, contenedores Docker, automatización de despliegues |
 | **Infraestructura** | Administración, hardening y monitoreo de servidores Linux en producción |
-| **Mensajería** | Integración de sistemas distribuidos con RabbitMQ y Kafka |
+| **Mensajería** | Integración de sistemas distribuidos con Kafka |
 | **Integraciones** | Conexión con servicios externos: APIs de terceros, aseguradoras, pasarelas de pago |
 
 ---
@@ -97,7 +97,7 @@ A continuación algunos proyectos destacados en los que he participado (resumen)
 | Aplicaciones varias (Node.js & Laravel) | Microservicios y aplicaciones web para clientes diversos (ecommerce, integraciones) | Node.js, Express, Laravel, MySQL/Postgres, Docker | Varios repos |
 | Scripts de automatización, monitoreo y despliegues | Colección de scripts y playbooks para monitoreo, alertas y despliegues automáticos | Python, Bash, Prometheus, Ansible, GitHub Actions | Interno / Automación CI/CD |
 
-Si quieres, puedo añadir enlaces directos a los repositorios (si son públicos) o ampliar la descripción de cada proyecto.
+
 
 ---
 
