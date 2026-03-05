@@ -7,7 +7,7 @@
 Ingeniero de sistemas con **+10 años de experiencia** construyendo software robusto, diseñando arquitecturas escalables y automatizando infraestructuras en producción.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestorfabian92)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nestorfabian)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nestorvargas)
 
 </div>
 
@@ -47,7 +47,7 @@ Ingeniero de sistemas con **+10 años de experiencia** construyendo software rob
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 #### Mensajería & Bases de Datos
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -74,11 +74,11 @@ Ingeniero de sistemas con **+10 años de experiencia** construyendo software rob
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nestorfabian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nestorvargas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nestorfabian&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nestorvargas&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nestorfabian&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nestorvargas&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -118,6 +118,6 @@ Si buscas un profesional para tu equipo, tienes un proyecto interesante o simple
 
 ⭐ Si te gusta mi perfil, ¡dale una estrella a alguno de mis repos!
 
-![Visitors](https://komarev.com/ghpvc/?username=nestorfabian&color=blueviolet&style=flat-square&label=Visitantes)
+![Visitors](https://komarev.com/ghpvc/?username=nestorvargas&color=blueviolet&style=flat-square&label=Visitantes)
 
 </div>
