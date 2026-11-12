@@ -16,6 +16,17 @@ Desarrollo productos web con inteligencia artificial que funcionan en producció
 | [**mi-web**](https://github.com/nestorvargas/mi-web) | Portal personal con chat de IA conectado a un bot con base de conocimiento (RAG) orquestado con n8n, y una consola interactiva para explorar mi perfil. Despliegue continuo con runner propio de GitHub Actions. | React, TypeScript, Vite, n8n, Ollama |
 | [**reportes-mensuales**](https://github.com/nestorvargas/reportes-mensuales) | Aplicación para importar reportes de horas desde Azure DevOps, visualizarlos en un dashboard y enviarlos por correo en Excel y PDF. | Python, FastAPI, SQLAlchemy, PostgreSQL, Vue 3 |
 
+## Otros repositorios
+
+| Repositorio | Descripción |
+|---|---|
+| [python-automatizaciones](https://github.com/nestorvargas/python-automatizaciones) | Scripts en Python para verificar sitios Drupal, generar reportes HTML y enviar notificaciones por correo, ejecutados con cron. |
+| [linux-info](https://github.com/nestorvargas/linux-info) | Notas y scripts de administración Linux: procesos, servicios systemd, hardening del kernel, Nginx, cron y Ansible. |
+| [prueba-tecnica-spring-boot](https://github.com/nestorvargas/prueba-tecnica-spring-boot) | API REST de gestión de pólizas de arrendamiento con Java 17 y Spring Boot 3, con colección de Postman y documentación. |
+| [wp-buffet](https://github.com/nestorvargas/wp-buffet) | Sitio en WordPress para un bufete de abogados. |
+| [ddev-drupal](https://github.com/nestorvargas/ddev-drupal) | Entorno de desarrollo Drupal con DDEV y Docker. |
+| [architect_software_fundamentals](https://github.com/nestorvargas/architect_software_fundamentals) | Documentación de arquitectura hexagonal, arquitectura limpia y patrones de software, con diagramas. |
+
 ## Lo que hago
 
 - **IA aplicada:** integración de LLMs (Claude, OpenAI, Gemini y modelos locales con Ollama), RAG con embeddings y pgvector, agentes con tool calling, Model Context Protocol (MCP) y salidas estructuradas en JSON. Atención a costos, latencia, privacidad y manejo de fallos del modelo.
