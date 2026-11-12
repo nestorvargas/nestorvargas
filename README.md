@@ -23,7 +23,6 @@ Desarrollo productos web con inteligencia artificial que funcionan en producció
 | [python-automatizaciones](https://github.com/nestorvargas/python-automatizaciones) | Scripts en Python para verificar sitios Drupal, generar reportes HTML y enviar notificaciones por correo, ejecutados con cron. |
 | [linux-info](https://github.com/nestorvargas/linux-info) | Notas y scripts de administración Linux: procesos, servicios systemd, hardening del kernel, Nginx, cron y Ansible. |
 | [prueba-tecnica-spring-boot](https://github.com/nestorvargas/prueba-tecnica-spring-boot) | API REST de gestión de pólizas de arrendamiento con Java 17 y Spring Boot 3, con colección de Postman y documentación. |
-| [wp-buffet](https://github.com/nestorvargas/wp-buffet) | Sitio en WordPress para un bufete de abogados. |
 | [ddev-drupal](https://github.com/nestorvargas/ddev-drupal) | Entorno de desarrollo Drupal con DDEV y Docker. |
 | [architect_software_fundamentals](https://github.com/nestorvargas/architect_software_fundamentals) | Documentación de arquitectura hexagonal, arquitectura limpia y patrones de software, con diagramas. |
 
