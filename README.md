@@ -16,6 +16,19 @@ Desarrollo productos web con inteligencia artificial que funcionan en producció
 | [**mi-web**](https://github.com/nestorvargas/mi-web) | Portal personal con chat de IA conectado a un bot con base de conocimiento (RAG) orquestado con n8n, y una consola interactiva para explorar mi perfil. Despliegue continuo con runner propio de GitHub Actions. | React, TypeScript, Vite, n8n, Ollama |
 | [**reportes-mensuales**](https://github.com/nestorvargas/reportes-mensuales) | Aplicación para importar reportes de horas desde Azure DevOps, visualizarlos en un dashboard y enviarlos por correo en Excel y PDF. | Python, FastAPI, SQLAlchemy, PostgreSQL, Vue 3 |
 
+## Proyectos profesionales
+
+Proyectos en producción para clientes y entidades (código privado).
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| Oficina Virtual INVIMA | Plataforma de trámites y gestión de la autoridad sanitaria de Colombia, con autorizaciones y flujos regulatorios. | Drupal, PHP, MySQL, APIs |
+| Aplicaciones INVIMA | Portal INVIMA, APP INVIMA, Portal de Alertas Sanitarias, Aula Virtual, Observatorio, Citas, Diplomas, Cifras y Funcionarios. | PHP, Drupal, Laravel, Java, MySQL, PostgreSQL |
+| Portales en Drupal para Corbeta | Desarrollo y mantenimiento de portales corporativos y multisitio. | Drupal, PHP, integración de contenidos |
+| Agronet.gov.co | Sitio institucional del sector agropecuario con gestión de contenidos y alta concurrencia. | PHP, MySQL, Nginx, CDN |
+| Aplicaciones Node.js y Laravel | Microservicios y aplicaciones web para distintos clientes: comercio electrónico e integraciones. | Node.js, Express, Laravel, MySQL, PostgreSQL, Docker |
+| Automatización y despliegues | Scripts y playbooks de monitoreo, alertas y despliegue automático. | Python, Bash, Prometheus, Ansible, GitHub Actions |
+
 ## Otros repositorios
 
 | Repositorio | Descripción |
